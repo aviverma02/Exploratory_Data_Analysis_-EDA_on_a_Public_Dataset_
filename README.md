@@ -5,7 +5,7 @@
 This project performs a comprehensive Exploratory Data Analysis on the famous Titanic dataset, analyzing survival patterns, demographics, and key factors that influenced passenger outcomes during the tragic disaster.
 
 **Project Type:** Data Science / Exploratory Data Analysis  
-**Dataset:** Titanic Passenger Data (891 passengers)  
+**Dataset:** Titanic Passenger Data (891 passengers)      
 **Tools:** Python, Pandas, Matplotlib, Seaborn  
 **Completion Date:** February 2026
 
