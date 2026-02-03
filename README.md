@@ -16,7 +16,7 @@ This project performs a comprehensive Exploratory Data Analysis on the famous Ti
 1. **Data Cleaning:** Handle missing values and prepare data for analysis
 2. **Statistical Analysis:** Compute survival rates, correlations, and distributions
 3. **Feature Engineering:** Create meaningful derived variables
-4. **Visualization:** Generate comprehensive charts to identify patterns
+4. **Visualization:** Generate comprehensive charts to identify patterns    
 5. **Insight Generation:** Extract actionable insights about survival factors
 
 ---  
