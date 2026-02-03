@@ -19,7 +19,7 @@ This project performs a comprehensive Exploratory Data Analysis on the famous Ti
 4. **Visualization:** Generate comprehensive charts to identify patterns
 5. **Insight Generation:** Extract actionable insights about survival factors
 
----
+---  
 
 ## 📁 Project Structure
 
