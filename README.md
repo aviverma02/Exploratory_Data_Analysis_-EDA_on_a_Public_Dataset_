@@ -212,7 +212,7 @@ The `titanic_eda.py` script is well-commented and organized into sections:
 5. Statistical Analysis
 6. Visualizations
 7. Key Insights
-8. Data Export
+8. Data Export 
 
 ---
 
