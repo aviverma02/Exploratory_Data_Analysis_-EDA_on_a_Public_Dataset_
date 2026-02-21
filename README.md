@@ -11,7 +11,7 @@ This project performs a comprehensive Exploratory Data Analysis on the famous Ti
   
 ---
 
-## 🎯 Objectives
+## 🎯 Objectives  
  
 1. **Data Cleaning:** Handle missing values and prepare data for analysis
 2. **Statistical Analysis:** Compute survival rates, correlations, and distributions
