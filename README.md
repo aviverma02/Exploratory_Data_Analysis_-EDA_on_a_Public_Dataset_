@@ -56,7 +56,7 @@ titanic-eda/
   - 1st Class: 62.78% ⭐
   - 2nd Class: 44.12%
   - 3rd Class: 22.29%
-- **By Gender:**
+- **By Gender:** 
   - Female: 42.68%
   - Male: 33.28%
 
