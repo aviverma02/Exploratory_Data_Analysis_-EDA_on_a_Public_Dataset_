@@ -8,7 +8,7 @@ This project performs a comprehensive Exploratory Data Analysis on the famous Ti
 **Dataset:** Titanic Passenger Data (891 passengers)         
 **Tools:** Python, Pandas, Matplotlib, Seaborn    
 **Completion Date:** February 2026  
-     
+      
 ---
 
 ## 🎯 Objectives  
