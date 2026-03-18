@@ -167,7 +167,7 @@ Optimal survival for small families (2-4 members)
 Social status indicator impact on outcomes
 
 ### 10. Class-Gender-Survival Interaction
-Three-way interaction showing compounded effects
+Three-way interaction showing compounded effects 
 
 ---
 
