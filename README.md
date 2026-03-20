@@ -43,7 +43,7 @@ titanic-eda/
     ├── 07_survival_by_embarkation.png
     ├── 08_survival_by_family_size.png
     ├── 09_survival_by_title.png
-    └── 10_class_gender_survival.png
+    └── 10_class_gender_survival.png 
 ```
 
 ---
