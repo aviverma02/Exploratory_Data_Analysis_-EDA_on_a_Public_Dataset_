@@ -208,7 +208,7 @@ The `titanic_eda.py` script is well-commented and organized into sections:
 1. Data Loading
 2. Data Exploration
 3. Data Cleaning
-4. Feature Engineering
+4. Feature Engineering 
 5. Statistical Analysis
 6. Visualizations
 7. Key Insights
