@@ -117,7 +117,7 @@ python titanic_eda.py
 
 ### 3. Feature Engineering
 - **FamilySize:** SibSp + Parch + 1
-- **IsAlone:** Binary indicator for solo travelers
+- **IsAlone:** Binary indicator for solo travelers 
 - **AgeGroup:** Categorical age bins
 - **FareGroup:** Quartile-based fare categories
 - **Title:** Extracted from passenger names
