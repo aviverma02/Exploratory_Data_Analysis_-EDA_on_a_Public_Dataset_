@@ -21,7 +21,7 @@ This project performs a comprehensive Exploratory Data Analysis on the famous Ti
 
 ---  
 
-## 📁 Project Structure 
+## 📁 Project Structure  
 
 ```
 titanic-eda/
